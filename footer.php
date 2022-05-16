@@ -7,7 +7,7 @@
             <div class="hidden md:flex">
                 <div class="flex-row text-center px-4">
                     <p class="font-bold">Email</p>
-                    <a href="">tony.kern.dev@gmail.com</a>
+                    <a href="mailto:tony.kern.dev@gmail.com">tony.kern.dev@gmail.com</a>
                 </div>
             </div>
         </div>
